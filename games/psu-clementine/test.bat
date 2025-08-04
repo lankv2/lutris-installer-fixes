@@ -1,3 +1,3 @@
 @echo off
-echo Hello!
+echo Generated steamuser folder.
 exit
